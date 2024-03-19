@@ -146,7 +146,16 @@ function PlasmicHomepage__RenderFunc(props: {
                 hasGap={true}
                 className={classNames(projectcss.all, sty.freeBox__fgjqI)}
               >
-                <div className={classNames(projectcss.all, sty.freeBox__tqqRs)}>
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    sty.link__tqqRs
+                  )}
+                  component={Link}
+                  href={"https://twitter.com/BEBESHERKSOL"}
+                  platform={"nextjs"}
+                >
                   <PlasmicImg__
                     alt={""}
                     className={classNames(sty.img__f5X6Q)}
@@ -164,8 +173,17 @@ function PlasmicHomepage__RenderFunc(props: {
                       aspectRatio: 1.105932
                     }}
                   />
-                </div>
-                <div className={classNames(projectcss.all, sty.freeBox__djpAw)}>
+                </PlasmicLink__>
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    sty.link__djpAw
+                  )}
+                  component={Link}
+                  href={"https://twitter.com/BEBESHERKSOL"}
+                  platform={"nextjs"}
+                >
                   <PlasmicImg__
                     alt={""}
                     className={classNames(sty.img__cGEs)}
@@ -183,7 +201,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       aspectRatio: 1.111111
                     }}
                   />
-                </div>
+                </PlasmicLink__>
               </Stack__>
               <Stack__
                 as={"div"}
@@ -408,7 +426,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.text
                   )}
                 >
-                  {"SHE9gFmTJSgzhchc1xLGSyFWUWALXcnmUvyhw2xxN9t"}
+                  {"2kJ2zzZoU7mgskrXHSe6fHgC7yLd4T9rbyDwchBuogB5"}
                 </div>
               </div>
             </div>
