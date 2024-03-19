@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "projectId": "adduS3qSrAzBwFfsRSGTej",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "MvM80Lgxw6k1",
+          "checksum": "b1498ecb02af019db37830af7851ffbb"
+        },
+        {
+          "assetId": "adduS3qSrAzBwFfsRSGTej",
+          "type": "projectCss",
+          "checksum": "496f75615cf5dad33153131127767563"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "_hzd1P7usq90",
+          "checksum": "604c4179d18f5cd84d65fe526a982fa8"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "_hzd1P7usq90",
+          "checksum": "604c4179d18f5cd84d65fe526a982fa8"
+        },
+        {
+          "type": "image",
+          "assetId": "6BqseDYMbHe-",
+          "checksum": "e62b63ad48f9852fcf86b0d019956e17"
+        },
+        {
+          "type": "image",
+          "assetId": "ROCFOyVWg3ll",
+          "checksum": "bd7d8733d94222f692c9ac7dac0d6ad9"
+        },
+        {
+          "type": "image",
+          "assetId": "p9A5rWvpiRS1",
+          "checksum": "4d9d37cc7e25adf480d9aaf0c1d0250e"
+        },
+        {
+          "type": "image",
+          "assetId": "fHaf86jqbqhS",
+          "checksum": "a058a431909cd547ce9d326a1c03ed41"
+        },
+        {
+          "type": "image",
+          "assetId": "c4SQBCBoZ18V",
+          "checksum": "1f51c12b3ea43ff98403e02182def75c"
+        },
+        {
+          "type": "image",
+          "assetId": "GnzwWtghBVNn",
+          "checksum": "6969ae1b52e1223c215eb7a8c5c6e98f"
+        },
+        {
+          "type": "image",
+          "assetId": "8hA6J0j2bjcq",
+          "checksum": "7ba375f75a1824e840ee6c8217a7e3d3"
+        },
+        {
+          "type": "image",
+          "assetId": "z4v3JTxXp0ki",
+          "checksum": "1801c7d78ebe516de65e87f45d299d36"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.327"
+}
