@@ -153,7 +153,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.link__tqqRs
                   )}
                   component={Link}
-                  href={"https://twitter.com/BEBESHERKSOL"}
+                  href={"https://t.me/sherkkonsol"}
                   platform={"nextjs"}
                 >
                   <PlasmicImg__
