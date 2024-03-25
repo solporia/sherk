@@ -208,7 +208,15 @@ function PlasmicHomepage__RenderFunc(props: {
                 hasGap={true}
                 className={classNames(projectcss.all, sty.freeBox__pmTuQ)}
               >
-                <div className={classNames(projectcss.all, sty.freeBox__aQ5K0)}>
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    sty.link__aQ5K0
+                  )}
+                  component={Link}
+                  platform={"nextjs"}
+                >
                   <h2
                     className={classNames(
                       projectcss.all,
@@ -219,9 +227,18 @@ function PlasmicHomepage__RenderFunc(props: {
                   >
                     {"BUY NOW!"}
                   </h2>
-                </div>
-                <div
-                  className={classNames(projectcss.all, sty.freeBox___71UXf)}
+                </PlasmicLink__>
+                <PlasmicLink__
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.a,
+                    sty.link___71UXf
+                  )}
+                  component={Link}
+                  href={
+                    "https://dexscreener.com/solana/oejbtjpzpjxkugps1phap9dfyfjjjn4kdgt2us9whvf"
+                  }
+                  platform={"nextjs"}
                 >
                   <h2
                     className={classNames(
@@ -233,7 +250,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   >
                     {"CHART"}
                   </h2>
-                </div>
+                </PlasmicLink__>
               </Stack__>
             </div>
           </div>
@@ -345,7 +362,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.h3___0SvgN
                     )}
                   >
-                    {"SUPPLY: 100M"}
+                    {"SUPPLY: 69M"}
                   </h3>
                   <h3
                     className={classNames(
@@ -426,7 +443,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.text
                   )}
                 >
-                  {"2kJ2zzZoU7mgskrXHSe6fHgC7yLd4T9rbyDwchBuogB5"}
+                  {"251QnEwm1Vg94HkGGWMGQ5VEJWWdePC78ApBh48SAm4R"}
                 </div>
               </div>
             </div>
